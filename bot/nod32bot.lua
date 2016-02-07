@@ -212,9 +212,10 @@ function create_config( )
     "xy1",
     "xy2",
     "xy3",
+    "xy4",
+    "xy5",
     "left",
-    "spm",
-    "support"
+    "spm"
     },
     sudo_users = {158990680},--Sudo users
     disabled_channels = {},
