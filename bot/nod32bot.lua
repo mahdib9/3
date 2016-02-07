@@ -212,6 +212,8 @@ function create_config( )
     "xy1",
     "xy2",
     "xy3",
+    "left",
+    "spm",
     "support"
     },
     sudo_users = {158990680},--Sudo users
