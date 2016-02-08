@@ -214,6 +214,7 @@ function create_config( )
     "xy3",
     "xy4",
     "xy5",
+    "xy6",
     "left",
     "spm"
     },
