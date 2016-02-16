@@ -20,3 +20,6 @@ return {
 }
 
 end
+--open xy git by : @behroozyaghi
+--channel : @nod32team
+--کپی بدون ذکر منبع حرام است
