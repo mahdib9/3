@@ -9,8 +9,9 @@ local function plugin_enabled( name )
   end
   -- If not found
   return false
-end
+end --open xy git by : @behroozyaghi
 
+ 
 -- Returns true if file exists in plugins folder
 local function plugin_exists( name )
   for k,v in pairs(plugins_names()) do
@@ -20,7 +21,7 @@ local function plugin_exists( name )
   end
   return false
 end
-
+--channel : @nod32team
 local function list_all_plugins(only_enabled)
   local text = ''
   local nsum = 0
@@ -220,3 +221,6 @@ return {
 }
 
 end
+--open xy git by : @behroozyaghi
+--channel : @nod32team
+--کپی بدون ذکر منبع حرام است
