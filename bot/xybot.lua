@@ -223,7 +223,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/yaghibot.git
+https://github.com/BH-YAGHI/XY-BOT-NOD32TEAM.git
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -384,3 +384,6 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+--xy
+--xy open git by : @behroozyaghi
+-- channel : @nod32team
