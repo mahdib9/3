@@ -215,8 +215,8 @@ function create_config( )
     "xy4",
     "xy5",
     "xy6",
-    "onservice",
-    "left",
+    "invite",
+    "invite_xy",
     "spm"
     },
     sudo_users = {158990680},--Sudo users
